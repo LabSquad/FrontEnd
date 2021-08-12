@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://roger-backend238592.herokuapp.com/api/',
+  apiUrl: 'https://labsquad-project.herokuapp.com/api/',
 };
